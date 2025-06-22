@@ -1,9 +1,13 @@
 import requests
 import pandas as pd
-from etl.oauth import get_token  # Ton module perso
+from etl.oauth import get_token  
+from dotenv import load_dotenv
 
 def extract_data():
+    load_dotenv(".env")
     token = get_token()
+    print("Voici le token reçu :")
+    print(token[:50], "...")
     search_url = "https://api.pole-emploi.io/partenaire/offresdemploi/v2/offres/search"
     headers = {"Authorization": f"Bearer {token}"}
     params = {

@@ -1,0 +1,116 @@
+# .env (NE PAS INCLURE DANS LE GIT)
+POLE_EMPLOI_CLIENT_ID=ton_client_id_ici
+POLE_EMPLOI_CLIENT_SECRET=ta_cle_secrete_ici
+
+---
+
+# .gitignore (fichier à mettre à la racine de ton projet)
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.DS_Store
+*.log
+*.zip
+
+---
+
+# README.md
+
+# Projet Data AWS - Offres d'emploi Data Scientist
+
+## 📚 Description
+Ce projet a pour but d'extraire, transformer et charger des données d'offres d'emploi dans le domaine de la Data Science, en utilisant une infrastructure Cloud sur AWS, un pipeline ETL en Python, et des dashboards interactifs.
+
+---
+
+## ⚡ Prérequis
+- Python >= 3.10
+- Un compte Pôle Emploi API (https://entreprise.pole-emploi.fr/)
+- Accès AWS (S3 + RDS PostgreSQL)
+
+---
+
+## ⚙️ Installation
+```bash
+# Cloner le repo
+git clone <url-du-depot>
+cd <nom-du-dossier>
+
+# Créer un environnement virtuel (optionnel mais recommandé)
+python -m venv venv
+source venv/bin/activate  # Ou venv\Scripts\activate sous Windows
+
+# Installer les dépendances
+pip install -r requirements.txt
+```
+
+---
+
+## 🔐 Configuration des variables sensibles
+Créer un fichier `.env` à la racine du projet contenant :
+```
+POLE_EMPLOI_CLIENT_ID=ton_client_id
+POLE_EMPLOI_CLIENT_SECRET=ta_cle_secrete
+```
+
+Ces variables seront automatiquement chargées via `python-dotenv`.
+
+---
+
+## ⚖️ Lancer le pipeline ETL
+```bash
+python etl/etl_pipeline.py
+```
+
+---
+
+## 🌎 Dashboards
+- Dash (Plotly) :
+```bash
+python etl/dashboard_plotly.py
+```
+
+- Bokeh :
+```bash
+bokeh serve etl/dashboard_bokeh.py --show
+```
+
+---
+
+## 📑 Structure du projet
+```
+.
+├── etl
+│   ├── extract.py
+│   ├── transform.py
+│   ├── load.py
+│   ├── dashboard_bokeh.py
+│   ├── dashboard.py
+│   └── etl_pipeline.py
+├── data
+│   └── offres_data_scientist.csv
+├── .env
+├── .gitignore
+└── README.md
+```
+
+---
+
+## 📊 Exemple de résultat
+- Base PostgreSQL peuplée avec des offres d'emploi nettoyées
+- Visualisations interactives sur Dash et Bokeh
+
+---
+
+## 🚀 Améliorations futures
+- Automatisation via AWS Lambda
+- Intégration temps réel avec Kinesis
+- Ajout d'une couche machine learning (prédiction de salaire, etc.)
+
+---
+
+## 📄 Auteurs
+Rody GOGO - Master IA - EM AIA Project2

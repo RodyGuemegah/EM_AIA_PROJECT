@@ -1,10 +1,10 @@
 import requests
 from requests.auth import HTTPBasicAuth
-
+from dotenv import load_dotenv
+import os
 def get_token():
-    client_id = "PAR_datalake_4fdfc597b8ed93677487a9b3d2aa86c3fad5d9ef69b57a7919cf70404fffbd73"
-    client_secret = "849cd99480c68aa4927c62bcbb9c5d636681da94f4864591a3a7d07d430b2074"
-
+    client_id = os.environ.get("POLE_EMPLOI_CLIENT_ID")
+    client_secret = os.environ.get("POLE_EMPLOI_CLIENT_SECRET")
     auth_url = "https://entreprise.pole-emploi.fr/connexion/oauth2/access_token?realm=/partenaire"
     auth_data = {
         "grant_type": "client_credentials",

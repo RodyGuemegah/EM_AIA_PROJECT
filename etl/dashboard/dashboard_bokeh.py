@@ -1,10 +1,11 @@
+
 from bokeh.layouts import column, row
 from bokeh.models import ColumnDataSource, Select
 from bokeh.plotting import figure, curdoc
 import pandas as pd
 
 # Chargement des données
-df = pd.read_csv("etl/data/offres_data_scientist.csv")  # chemin relatif depuis la racine
+df = pd.read_csv("data\offres_data_scientist.csv")
 df["entreprise"] = df["entreprise"].fillna("Inconnue")
 df["contrat"] = df["contrat"].fillna("Non spécifié")
 df["lieu"] = df["lieu"].fillna("Non spécifié")
