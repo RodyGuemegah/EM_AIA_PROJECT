@@ -5,8 +5,8 @@ import plotly.express as px
 import os
 
 # Charger les données CSV générées
-print(os.path.abspath("etl/output/data_scientist_offres.csv"))
-df = pd.read_csv("data\offres_data_scientist.csv")
+print(os.path.abspath("etl\data\offres_data_scientist.csv"))
+df = pd.read_csv("../data/offres_data_scientist.csv")
 
 # Lancer l'app Dash
 app = dash.Dash(__name__)
