@@ -1,0 +1,294 @@
+id,intitule,description,lieu,entreprise,dateCreation,salaire,contrat
+193XHNV,Data Scientist H/F (H/F),"SYNOPSIA est une société de Service et d'Ingénierie Informatique à taille humaine. Créée en 1999, elle accompagne depuis 20 ans ses clients dans la concrétisation de leurs projets numériques, en mettant à leur disposition une expertise technique et des compétences métier.
+
+Chez SYNOPSIA nous avons à cœur d'avoir une réelle proximité avec chacun de nos salariés et nous œuvrons pour le développement de leur carrière en adéquation avec leur projet professionnel. A ce titre, nous attachons une grande importance au choix des missions et à la formation professionnelle. Nous recherchons des Hommes et des Femmes qui partagent nos valeurs : le sens du service, une ouverture d'esprit et une volonté de relever les défis qui se présentent à eux.
+
+Nous recherchons pour un recrutement immédiat un(e) Data Scientist.
+
+Vous serez en charge des traitements analytiques avancés répondant à des cas d'usage transverses.
+
+Vos principales responsabilités seront :
+
+Comprendre les problématiques des directions métiers et proposer une résolution fondée sur des approches analytiques.
+Organiser les données massives, structurées ou non structurées, internes et externes, et construire les jeux de données nécessaires à la modélisation.
+Construire des modèles analytiques qui permettent de répondre à la problématique et accompagner la mise en production des modèles avec les équipes IT.
+Formaliser des recommandations et restituer les résultats aux métiers. Compétences requises :
+Langage SQL ainsi que Python
+Connaissance des plateformes cloud (GCP, Azure)
+Maîtrise des outils ERP/ BIRST/ Oracle BI/ Power BI
+Maîtrise des bonnes pratiques de développement et méthodes agiles
+Esprit d'équipe et travail collaboratif
+Anglais technique voire courant
+Compétences appréciées :
+
+Les librairies de machine Learning
+NLP
+Formation :
+
+Bac +5
+Vous disposez de 5 années d'expériences
+Le poste vous intéresse, envoyez nous votre CV dès maintenant, nous reviendrons vers vous au plus vite.
+
+Type d'emploi : Temps plein, CDI
+
+Statut : Cadre
+
+Avantages :
+Travail à domicile occasionnel
+Horaires : Du lundi au vendredi
+Travail en journée
+Lieu du poste : En présentiel",75 - PARIS 02,SYNOPSIA INGENIERIE,2025-06-16T14:20:26.920Z,Annuel de 45000.0 Euros à 55000.0 Euros sur 12.0 mois,CDI
+193PDKB,Data Scientist (H/F),"Nous recrutons un Data Scientist pour un projet à fort enjeu analytique au sein d'un client grand compte. Poste basé en France. Démarrage ASAP.
+
+Expérience requise : minimum 3 ans.
+
+Compétences requises :
+Maîtrise de Python, bibliothèques pandas, scikit-learn, TensorFlow ou PyTorch
+Conception et déploiement de modèles prédictifs
+Analyse de données, visualisation, data cleaning
+Notions de MLOps, APIs, cloud (GCP, AWS ou Azure)
+
+Environnement technique : Python, Jupyter, SQL, Docker, MLFlow, Power BI ou Tableau
+
+Rejoignez-nous pour exploiter tout le potentiel de la donnée dans un environnement stimulant.",75 - PARIS 09,SEGMENT ELITE,2025-06-09T15:04:22.629Z,Annuel de 40000.0 Euros à 50000.0 Euros sur 12.0 mois,CDI
+193JHJN,Data Scientist F/H (H/F),"Nomadia recherche un(e) Data Scientist.
+Rattaché(e) au Head of Data, vous aurez comme missions principales de:  
+Développer, déployer et maintenir des modèles d'analyse avancée et d'apprentissage automatique à partir des données de Nomadia, pour répondre aux besoins business identifiés par l'AI Product Manager et contribuer à l'innovation produit par la Data Science.
+Le candidat devra se tenir à disposition pour toute autre mission complémentaire en fonction des besoins du pôle Data
+
+Vos responsabilités clés:
+1. L'analyse et l'exploitation des données:
+- Analyser les données du Data Lake pour en extraire des insights pertinents
+- Développer des visualisations et dashboards pour communiquer les résultats
+- Réaliser des études pour répondre à des questions business spécifiques
+2. Le développement de modèles: 
+- Concevoir et développer des modèles prédictifs adaptés aux besoins business
+- Implémenter des algorithmes de machine learning et deep learning
+- Réaliser des Proof of Concepts pour valider la faisabilité des Use Cases identifiés
+3- l'industrialisation et le déploiement
+- Collaborer avec le Data Engineer et les équipes Architecture pour déployer les modèles en production
+- Assurer le suivi et la maintenance des modèles en production
+- Mettre en place des systèmes de monitoring des performances des modèles
+- Améliorer continuellement les modèles existants
+4- La recherche et l'innovation
+- Effectuer une veille sur les dernières avancées en data science et IA
+- Tester et évaluer de nouvelles approches et algorithmes
+- Contribuer à la culture de l'innovation data-driven au sein de l'entreprise
+La collaboration et la communication
+- Travailler étroitement avec l'AI Product Manager pour transformer les use cases en solutions techniques
+- Collaborer avec le Data Engineer pour la préparation des données et le déploiement des modèles
+- Vulgariser les concepts techniques pour les parties prenantes non-techniques
+- Documenter rigoureusement les modèles et les méthodologies utilisées
+
+Interactions Clés
+Collaboration étroite avec les membres des équipes AI
+Interface avec les équipes métier pour comprendre leurs besoin",75 - PARIS 14,NOMADIA GROUP.,2025-06-03T16:50:05.519Z,Annuel de 43000.0 Euros à 43300.0 Euros sur 12.0 mois,CDI
+192ZYFL,Data Scientist IA (H/F),"Mission Principale
+
+Au sein de l'équipe IA de Supervizor, vous occuperez le poste de Data Scientist spécialisé en intelligence artificielle. Votre mission consistera à concevoir, développer et maintenir des modèles prédictifs et analytiques innovants pour répondre aux défis spécifiques de notre entreprise dans le domaine de l'audit et de la finance. Vous serez au cœur de notre stratégie d'innovation technologique, contribuant directement à l'amélioration de nos solutions d'analyse et de supervision automatisée.
+
+Responsabilités: 
+Participer à des projets de recherche et développement pour améliorer les outils analytiques existants
+Participer à l'architecture globale des use cases IA (gateway, script, etc.)
+Développer et implémenter des algorithmes de machine learning pour des analyses prédictives
+Collaborer avec les équipes techniques et non techniques pour comprendre les besoins et les enjeux business
+Assurer la qualité des données et veiller à leur conformité avec les normes en vigueur
+
+Compétences Requises : 
+Techniques :
+Maîtrise des langages de programmation : Python, SQL et Git
+Expérience significative sur les concepts d'IA Générative : Modèles de langage (LLMs), prompt engineering, RAG, AI agent, évaluation des modèles génératifs
+Experience sur les NLP (Transformers, embeddings...)
+Expérience avec des bibliothèques Python : scikit-learn, TensorFlow, etc
+Connaissance des plateformes d'IA générative : Anthropic, OpenAI
+Capacité de veille technologique sur les nouveautés et tendances en IA et Datascience
+Bonus appréciés :
+JavaScript
+Connaissance des environnements cloud : Azure, AWS, GCP
+
+Non Techniques :
+Excellente capacité à communiquer des concepts techniques à des non-experts
+Fortes compétences analytiques et résolution de problèmes
+Curiosité et désir d'apprendre et d'appliquer de nouvelles technologies
+Capacité à travailler en équipe et à gérer plusieurs projets simultanément
+Maîtrise du français et de l'anglais
+
+Profil Recherché
+Diplômé d'une école d'ingénieur dans des domaines relatifs à l'IA et aux sciences appliquées à l'informatique
+Minimum de 2 ans d'expérience en tant que Data Scientist ou dans un rôle similaire
+Expérience en gestion de projets data
+Expérience en gestion de données financières
+
+Avantages
+Environnement de travail dynamique et innovant
+Opportunités de formation continue et de développement professionnel
+Participation à des projets de grande envergure avec un impact significatif",75 - PARIS 09,SUPERVIZOR,2025-05-27T10:29:37.679Z,Annuel de 32000.0 Euros à 39000.0 Euros sur 12.0 mois,CDI
+193FBPT,Responsable du Pôle données (H/F),"Rejoignez l'Inspection générale de l'administration (IGA) pour porter la transformation data de l'État !
+
+L'IGA est l'un des trois corps d'inspection interministériels de l'État (aux côtés de l'IGF et de l'IGAS). Rattachée directement au ministre de l'Intérieur, elle conduit des missions d'audit, de contrôle, de conseil et d'évaluation sur l'ensemble des domaines d'action du ministère (sécurité intérieure, libertés publiques, immigration, administration territoriale, etc.). Elle intervient également à la demande du Premier ministre ou d'autres membres du gouvernement pour évaluer des politiques publiques interministérielles. Elle regroupe environ 70 inspecteurs (préfets, hauts fonctionnaires, cadres dirigeants.).
+
+Dans un contexte de modernisation de l'action publique, l'IGA engage une transformation profonde de ses méthodes en créant un Pôle données. Sa mission : exploiter la puissance de la data science pour éclairer les décisions publiques, améliorer l'efficacité des politiques de l'État et détecter, par exemple, des schémas de fraudes. Nous recrutons le(la) Responsable de ce nouveau Pôle données.
+
+Ce poste stratégique vous positionne au plus près de la direction de l'IGA et des inspecteurs généraux. Vous pilotez la conception du Pôle (vision stratégique, gouvernance, outillage, recrutement) et développez les premiers outils concrets, en lien avec les directions métiers, la DTNUM, l'INSEE, ou d'autres inspections générales.
+
+Vos missions principales :
+- Définir et mettre en œuvre la feuille de route du Pôle ;
+- Déployer des solutions algorithmiques répondant aux besoins métiers ;
+- Créer les premières applications concrètes en data science pour l'IGA ;
+- Animer la gouvernance data avec les partenaires internes et externes ;
+- Accompagner la montée en compétence des agents sur les sujets data ;
+- Agir comme référent stratégique et technologique sur les sujets IA/data ;
+- Assurer le pilotage, le reporting et la valorisation des résultats produits.
+
+Ce que vous y gagnerez :
+Un poste à fort impact, au cœur des missions régaliennes de l'État, dans un environnement stimulant : diversité des thématiques, fort niveau d'autonomie, interaction avec des interlocuteurs de haut niveau. Vous consoliderez vos expertises techniques, stratégiques et relationnelles tout en contribuant à la transformation numérique du service public.
+
+Profil recherché :
+- Diplômé(e) en ingénierie/data science avec 10 ans d'expérience minimum ;
+- Maîtrise des outils et méthodes de data science et d'analyse algorithmique ;
+- Solide expérience en gestion de projets SI et exploitation de données massives ;
+- Forte capacité d'adaptation, sens politique, goût du service public ;
+- Autonomie, créativité, force de proposition, rigueur et curiosité.
+
+Conditions de travail attractives :
+- Poste basé à Paris 12e (Bercy Village), avec un déménagement prévu à Nation début 2027 ;
+- Ouvert aux fonctionnaires, contractuels en CDI ou CDD ;
+- 27 jours de congés + 15 jours de RTT, cantine, crèche, salle de sport, complémentaire santé, formations, action sociale ;
+
+Rémunération selon profil et expérience ;
+Prise de poste souhaitée au 1er septembre 2025.
+
+Processus de recrutement :
+Si votre profil est retenu, un premier entretien téléphonique sera organisé avec Frédéric Pichon (adjoint au chef de service) et Sarah Devoucoux (secrétaire générale), suivi d'échanges avec le chef du service et un comité de sélection (entretien + étude de cas).
+
+Pourquoi rejoindre l'IGA ?
+Vous contribuerez à renforcer la souveraineté numérique de l'État et à repenser l'efficacité des politiques publiques à un niveau stratégique. Le ministère de l'Intérieur promeut la diversité, l'égalité professionnelle et la non-discrimination dans tous ses recrutements.",75 - PARIS 12,MINISTERE DE L'INTERIEUR,2025-05-30T15:20:54.283Z,,CDI
+8063294,Alternance - Data Scientist (H/F),tâches principalesAccélérer la montée en puissance de la Data Science pour le RetailReprendre et améliorer les sujets IA existants au sein de l'équipeDévelopper de nouveaux algorithmes de Machine Learning à destination de la relation client et du RetailPromouvoir et animer l'utilisation de l'Intelligence Artificielle pour le retail en recensant et valorisant les cas d'usages de l'IA Monitorer la performance commercialeAssister l'équipe Retail Data dans la réalisation des études AD HOC à destination des entités de production et de nos filiales de distributionAccompagner les Data Analysts dans la création de nouveaux reportings et leurs améliorations à destination des filiales de distribution et entités de production Assurer une veille qualitative des innovations Data Science appliquées au RetailRecenser et centraliser les nouvelles méthodologies d'algorithmie applicables à l'univers du RetailMettre à disposition cette veille aux membres de l'équipe,75 - PARIS 01,Forums Talents Handicap,2025-06-11T11:53:02.000Z,,Mission intérimaire - 3 Mois
+8020638,Data scientist (H/F),"Description du poste :
+Data Scientist Expérimenté - H/F // Data Lab RH Groupe
+Missions, équipe et environnement de travail, ça donne quoi ?
+L'équipe People Analytics est le centre d'expertise Analytics & AI qui accompagne les équipes RH dans l'exploitation des données pour aider au pilotage stratégique des activités et à l'amélioration de l'expérience employée.
+Elle construit des produits analytiques et d'IA, en agile, visant à :
+- Aider aux prises de décisions stratégiques pour la fonction
+- Améliorer l'expérience des collaborateurs du Groupe
+- Contribuer au dialogue avec les parties prenantes externes en rendant compte de nos actions RSE RH en tant qu'employeur responsable
+- Digitaliser des processus RH
+Forte de son expérience sur l'accompagnement auprès de la filière RH sur des produits Analytics, notre équipe agrandit son offre de service, en proposant des solutions en Intelligence Artificielle Traditionnelle et Générative. Pour accompagner ces ambitions, nous travaillons avec les lignes RH sur l'identification des cas d'usage, leur développement et leur déploiement
+En rejoignant l'équipe People Analytics en tant que Data Scientist vos principales missions seront :
+- Collaborer avec les Business Analysts en IA pour s'assurer que les produits développés répondent aux besoins des clients, et travailler avec l'équipe IT pour garantir la faisabilité technique pour l'industrialisation
+- Concevoir, développer et déployer des solutions en IA Classique ou Générative pour répondre à des cas d'utilisation des métiers
+- Développer des composants de notre Assistant Virtuel RH en utilisant des compétences en LLM, RAG et Agentique
+- Livrer des produits fiables et dignes de confiance, en assurant la protection des données personnelles les thématiques de sécurité, robustesse, fiabilité et éthique
+- Contribuer à l'amélioration et à l'optimisation continue des produits IA pour accroître leur précision, leur évolutivité
+- Optimiser l'efficacité computationnelle et les coûts, et assurer la conformité des solutions développées avec les gouvernances en place
+- Participer à l'amélioration continue des méthodologies IA et des méthodes de travail du Centre d'Expertise IA et des Data Scientists, et contribuer à la transformation Data de la filière RH
+- Se tenir à jour des avancées en IA et partager ses connaissances avec les collègues pour promouvoir une culture d'apprentissage axée sur l'innovation
+Vous travaillerez dans un environnement hybride (sur site et télétravail) dans des locaux situés au 20, rue de Clichy dans le 9ème arrondissement à Paris. Vous pourrez y accéder facilement par le métro qui est situé à seulement quelques minutes.
+Et après ?
+Les nombreux interlocuteurs que vous aurez vous permettront de développer votre réseau et d'envisager d'intégrer différentes équipes au sein de RHG ou plus largement au sein des métiers du groupe.
+Les avantages à nous rejoindre
+Un package rémunération et des avantages :***Un fixe annuel brut et un variable individuel (défini en fonction de votre performance et de celle de votre équipe).
+* Plan épargne entreprise/retraite, intéressement et participation, couverture santé et prévoyance, activités sociales et culturelles via le comité d'entreprise
+* De la flexibilité avec un rythme de de travail hybride : jusqu'à 2,5 jours de télétravail par semaine à définir avec votre manager
+Rejoignez un Groupe engagé et prenez part à notre grand projet de transformation vers la construction d'un monde plus durable.
+Découvrez nos engagements pour notre clientèle et la société.
+Engagez-vous à nos côtés sur votre temps professionnel, à travers notre programme OneMillionHoursToHelp.
+Etes-vous notre prochain Data Scientist ?
+Oui si vous avez un BAC +5 en informatique ou IA ou domaine similaire et au moins 5 ans d'expérience professionnelle dans le développement et déploiement d'applications basées sur de l'IA.
+Sur la partie Data Science vous justifiez de :
+- Connaissances globales sur les différents types de modèles : supervisés, non supervisés, sur données structurées et non structurées
+- Expérience significative sur les concepts de NLP (Transformers, embeddings.) et expérience en IA Générative : Modèles de langage (LLMs), prompt engineering, RAG, AI agent, évaluation des modèles génératifs
+- Maîtrise de la conception et du développement de systèmes multi-agents (MAS)
+- Connaissances en éthique de l'IA, biais algorithmiques, règlementations IA
+- Capacité de veille technologique sur les nouveautés et tendances en IA
+Sur la partie programmation & outils :
+- Excellentes compétences en développement avec une expérience approfondie en Python et des compétences sur SQL
+- Bon",75 - PARIS 09,,2025-06-10T13:36:12.000Z,,Contrat à durée indéterminée
+7917457,Alternance - Data Scientist (H/F),"En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.L'entreprise Hermès recherche actuellement des profils : 
+
+ 
+
+ Missions principales
+
+ * Accélérer la montée en puissance de la Data Science pour le Retail 
+
+ * Reprendre et améliorer les sujets IA existants au sein de l'équipe
+ * Développer de nouveaux algorithmes de Machine Learning à destination de la relation client et du Retail
+ * Promouvoir et animer l'utilisation de l'Intelligence Artificielle pour le retail en recensant et valorisant les cas d'usages de l'IA
+
+ 
+
+ * Monitorer la performance commerciale 
+
+ * Assister l'équipe Retail Data dans la réalisation des études AD HOC à destination des entités de production et de nos filiales de distribution
+ * Accompagner les Data Analysts dans la création de nouveaux reportings et leurs améliorations à destination des filiales de distribution et entités de production
+
+ 
+
+ * Assurer une veille qualitative des innovations Data Science appliquées au Retail 
+
+ * Recenser et centraliser les nouvelles méthodologies d'algorithmie applicables à l'univers du Retail
+ * Mettre à disposition cette veille aux membres de l'équipe
+Profil souhaité
+
+ * Etudiant(e) en Bac +4/5 en grande école ou grande université, en spécialité Statistiques/Data Science
+ * Connaissance des bases de données et à l'aise avec les langages de programmation (SQL, Python, etc.)
+ * La connaissance de l'environnement AWS et ses composants (Sagemaker, etc.) est un plus
+ * La connaissance de PowerBI est un plus
+ * Langues : Anglais courant (écrit et oral)
+ * Capacité d'analyse et esprit de synthèse
+ * Curiosité et faculté d'adaptation",75 - PARIS 01,New Net 3D,2025-06-07T11:00:48.000Z,,Contrat à durée déterminée - 12 Mois
+7426392,Data Scientist H/F,"RESPONSABILITÉS : 
+
+Descriptif du poste
+La plateforme Data Science de l'institut Imagine est responsable du développement :
+●      De bases de données pour les équipes de recherche pour la constitution de cohortes de patients et analyse des données ;
+●      D'un entrepôt de données biomédicales : moteur de recherche et fouille de données ;
+●      De méthodes de data mining et d'extractions d'information par des méthodes d'intelligence artificielle (Traitement automatique du langage, traitements des images) pour la génération d'hypothèses et l'aide au diagnostic
+●      D'applications pour aider les médecins et scientifiques dans leurs recherches
+La description détaillée de l'équipe est en lien ici : https://www.institutimagine.org/fr/nicolas-garcelon-757
+La plateforme est impliquée dans des projets de recherche d'envergure nationale et internationale.
+Dans le cadre du projet RHU6 Innov4Epik ( https://epilepsies-innov4epik.com/fr/ ), la plateforme data science de l'Institut Imagine recrute un Data Scientist.
+Les missions du data scientist seront :
+●      Analyser des données cliniques, EEG, génétiques, etc., pour identifier des variables associées à l'évolution de la maladie (corrélations, analyses multivariées).
+●      Appliquer des algorithmes de machine learning (sélection de variables, clustering non supervisé) pour identifier des sous-groupes de patients partageant des caractéristiques communes, pour affiner le diagnostic précoce, la stratification pronostique et la réponse aux traitements.
+●      Participer à l'intégration de connaissances externes (HPO, mécanismes d'action des médicaments) avec les modèles produits dans le projet.
+●      Contribuer au développement d'un modèle prédictif multi-échelle, combinant données cliniques, biologiques, et connaissances expertes.
+●      Participer au développement d'un jumeau numérique pour l'épilepsie rare, capable de générer des prédictions personnalisées (hospitalisations, réponse aux traitements, SUDEP, etc.) en collaboration avec central supélec.
+
+PROFIL RECHERCHÉ : 
+
+Contrat
+●      CDD
+●      Prise de fonction possible dès que possible
+●      Localisation : Institut Imagine - 24 boulevard du Montparnasse 75015 PARIS
+●      Télétravail possible 2j/semaine
+●      Accès aux associations sportives et culturelles
+●      Salaire selon profil et expérience.",75 - Paris,Imagine - Institut des maladies génétiques,2025-05-29T10:31:28.000Z,,Contrat à durée déterminée - 12 Mois
+7301503,Data scientist (H/F),"Description du poste :
+Quel sera votre quotidien ?
+Votre principal rôle sera de :
+Participer à l'identification, la qualification et la priorisation de cas d'usage de data science à forte valeur métier ;
+Assurer, sous la supervision d'un Lead Data Scientist, la réalisation scientifique et technique des projets de data science, en se conformant au modèle de delivery et aux standards de développement promus par le CE Data
+Accompagner le déploiement des projets sur les infrastructures de production (support du build et du run) et leur intégration dans les processus métier concernés
+Assurer l'interface avec l'ensemble des parties prenantes (métiers et techniques) et contribuer à l'animation des réunions projet : kick-offs, revues de sprint, comités de pilotage, etc.
+Valoriser les travaux au sein et à l'extérieur du groupe par le biais de communications et de démonstrations
+Vous contribuerez également aux activités transverses du CE Data : missions d'expertise diverses, création de contenus de formation et d'acculturation, développement de l'offre du CE Data, participation à l'animation de la communauté data science du groupe, etc.
+Pour en savoir plus, cliquez sur le lien suivant :
+https://ratpgroup.com/fr/.
+Description du profil :
+Vous êtes diplômé d'un BAC+5 en Data Science (ou équivalent) et avez acquis au moins 5 ans d'expérience dans ce domaine.
+Pour relever ces défis, nous recherchons une personne disposant d'un bagage scientifique et technique solide :
+Compétences avancées en mathématiques, statistiques et intelligence artificielle
+Compétences dans le recueil, le traitement et l'analyse de données afin de répondre à des besoins métier spécifiques
+Compétences dans le développement et le déploiement de modèles d'apprentissage automatique dans un contexte industriel
+Connaissance de Python et, idéalement, de PySpark, SQL et Git
+Vous vous reconnaissez ? N'hésitez pas à postuler directement en ligne !
+Tous nos métiers sont ouverts aux personnes en situation de handicap.
+Informations complémentaires
+Type de contrat : CDI
+Localisation : Maison de le RATP - Paris 12ème
+Télétravail : Oui
+Principaux avantages de l'entreprise
+Évolution de carrière vers d'autres métiers y compris en filiales internationales
+9 semaines de congés, soit 206 jours travaillés par an",75 - PARIS 09,,2025-05-27T20:48:21.000Z,,Contrat à durée indéterminée
